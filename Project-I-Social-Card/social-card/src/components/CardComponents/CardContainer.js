@@ -1,11 +1,10 @@
 import React from 'react';
 import './Card.css';
 import CardBanner from './CardBanner';
-import CardContent from'./CardContent';
+import CardContent from './CardContent';
+// import ClickEvent from './ClickEvent';
 
 function clickEvent(){
-	// console.log('clicked');
-	
 	window.location.href = 'https://www.reactjs.org';
 }
 
