@@ -1,1 +1,6 @@
 /* All styles for your Card Components live here */
+
+main {
+	height: 70%;
+	background-color: lightgreen;
+}
