@@ -9,7 +9,6 @@ const HeaderContainer = props => {
 	return <header className='header'>
 				<ImageThumbnail />
 				<HeaderContent />
-
 			</header>;
 };
 
