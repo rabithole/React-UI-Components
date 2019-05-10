@@ -7,6 +7,8 @@ const CardContent = props => {
 				<p>React makes it painless to create interactive UIs. Design simple views for each state in your application.</p>
 				<p id='reactjs'>reactjs.org</p>
 			</div>
+
+			
 };
 
 export default CardContent;
