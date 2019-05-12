@@ -12,4 +12,4 @@ const HeaderContainer = props => {
 			</header>;
 };
 
-export default HeaderContainer;
+export default HeaderContainer
