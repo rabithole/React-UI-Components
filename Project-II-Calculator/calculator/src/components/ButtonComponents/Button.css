@@ -3,5 +3,16 @@
 	width: 115px;
 	background-color: white;
 	border: 1px solid lightgrey;
-	
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.actionButton {
+	background-color: #a0001e;
+	color: white;
+}
+
+.longButton {
+	width: 345px;
+	height: 100px;
 }
