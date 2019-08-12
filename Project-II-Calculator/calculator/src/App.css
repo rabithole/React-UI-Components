@@ -1,0 +1,10 @@
+.mainDiv {
+	display: flex;
+	/*justify-content: center;*/
+	/*flex-direction: row;*/
+	flex-wrap: wrap;
+	border: 2px solid lightgrey;
+	width: 460px;
+	height: 600px;
+	margin-top: 200px;
+}

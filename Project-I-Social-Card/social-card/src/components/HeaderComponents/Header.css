@@ -1,1 +1,18 @@
 /* All styles for your header Components live here */
+
+.header {
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	height: auto;
+	background-color: ;
+}
+
+.header div {
+	margin: 0 1% 1% 1%;
+}
+
+img {
+	height: 50px;
+	margin: 1%;
+}
